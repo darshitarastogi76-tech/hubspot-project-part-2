@@ -56,5 +56,5 @@ It reflects beginner-level CRM implementation with real-world business logic.
 ## 👩‍💻 Built By
 **Darshita Rastogi**  
 LinkedIn profile: https://www.linkedin.com/in/darshita-rastogi
-2nd Year Economics (Hons.), Kamala Nehru College  
+2nd Year Economics (Hons.) Student at Kamala Nehru college, DU
 Aspiring Risk & Project Manager
