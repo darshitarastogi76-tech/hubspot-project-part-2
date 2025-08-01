@@ -32,22 +32,16 @@ This phase simulates CRM-based risk profiling and segmentation using HubSpot's f
 ### 📸 Screenshots (HubSpot CRM)
 
 **1. Contact List Dashboard View**  
-![Contact Dashboard](part-2-hubspot/contact-list-dashboard.png)
 
 **2. High Risk Clients View**  
-![High Risk View](part-2-hubspot/high-risk-view.png)
 
 **3. Medium Risk Clients View**  
-![Medium Risk View](part-2-hubspot/medium-risk-view.png)
 
 **4. Low Risk Clients View**  
-![Low Risk View](part-2-hubspot/low-risk-view.png)
 
 **5. Contact Detail View (with Risk Info)**  
-![Contact Details](part-2-hubspot/contact-details.png)
 
 **6. Follow-Up Task Added to Contact**  
-![Follow-Up Task](part-2-hubspot/follow-up-task.png)
 
 ## ✅ Skills Demonstrated
 - CRM usage: HubSpot filtering, segmentation, and contact management
